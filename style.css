@@ -1,0 +1,102 @@
+.container{
+    color: aliceblue;
+}
+body{
+    text-align: center;
+  
+    background-image:url("https://wallpapercave.com/wp/moYw8Uk.gif") ;
+}
+h1{
+color: aquamarine;
+font-style: italic;
+font-size:70px;
+
+}
+
+.center {
+  
+    text-align: center;
+padding-top:150px ;
+  }
+
+.w{
+    background-color: rgb(211, 241, 241);
+    font-size: 50px;
+    border-width: 2px;
+    size: lg;
+    border-radius: 20px;
+    border-color: black;
+    width: 100px;
+    align-items: center;
+    
+
+}
+
+.a {
+    background-color: rgb(211, 241, 241);
+    font-size: 50px;
+    border-width: 2px;
+    size: lg;
+    border-radius: 20px;
+    border-color: black;
+    width: 100px;
+}
+
+.s {
+    background-color: rgb(211, 241, 241);
+    font-size: 50px;
+    width: 100px;
+    border-width: 2px;
+    size: lg;
+    border-radius: 20px;
+    border-color: black;
+
+}
+
+.q {
+    
+    background-color: rgb(211, 241, 241);
+    font-size: 50px;
+    width: 100px;
+    border-width: 2px;
+    size: lg;
+    border-radius: 20px;
+    border-color: black;
+
+}
+
+.d {
+    background-color: rgb(211, 241, 241);
+    font-size: 50px;
+    width: 100px;
+    border-width: 2px;
+    size: lg;
+    border-radius: 20px;
+    border-color: black;
+
+}
+
+.c {
+    background-color: rgb(211, 241, 241);
+    font-size: 50px;
+    width: 100px;
+    border-width: 2px;
+    size: lg;
+    border-radius: 20px;
+    border-color: black;
+
+}
+.drum{
+margin: auto;}
+.drum:hover {background-color:red}
+
+.drum:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+footer{
+ color: beige;
+}
